@@ -1,0 +1,5 @@
+{
+  "name": "均值议会决策助手",
+  "description": "专为《均值议会》游戏设计的决策辅助工具，支持多系数模拟、平均值计算及淘汰差值分析。",
+  "requestFramePermissions": []
+}
